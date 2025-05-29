@@ -4,7 +4,7 @@
 Predicting Employment Status Using Demographic and Socio-Economic Data in Hubei Province
 
 ## Author
-Zibo Chen
+Zibo Nie
 
 ## Abstract
 This project develops machine learning models (Random Forest, LSTM, SVM) to predict employment status (employed/unemployed) using a dataset of 4,980 individuals from Hubei Province, China. The Random Forest model achieves the highest performance with 91.39% F1 Score and 85.28% accuracy, outperforming LSTM (89.24% F1) and SVM (80.67% F1). Key features influencing employment include unemployment review date (`c_acc02e`), registration date (`c_acc03b`), and unemployment reason (`c_ajc093`). Future work could integrate real-time labor market data and explore ensemble methods for enhanced accuracy.
@@ -87,5 +87,5 @@ The Random Forest model delivers robust employment status predictions, making it
 8. M. Kuhn and K. Johnson, *Applied Predictive Modeling*, Springer, 2013.
 
 ## Contact and Further Information
-The dataset (`data.xlsx`) is available upon request from Hubei Province labor market authorities.  
-For questions, please contact: [Your Email Address].
+The dataset (`data.xlsx`) is from HuaZhong Cup in March, 2025, China.  
+For questions, please contact: niezibo0814@hotmail.com.
