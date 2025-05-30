@@ -1,10 +1,10 @@
 ### Project Title
 
-Employment Status Prediction in Hubei Province
+Employment Status Prediction in Hubei, China
 
 **Author**
 
-[Your Name]
+Zibo Nie
 
 #### Abstract
 
@@ -73,5 +73,5 @@ Hochreiter, Sepp, and Jürgen Schmidhuber. 1997. “Long Short-Term Memory.” *
 
 ##### Contact and Further Information
 
-[Your Name], [Your Email], [Your GitHub Profile]
+Zibo Nie, niezibo0814@hotmail.com
 
